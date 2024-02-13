@@ -1,0 +1,7 @@
+![photo1707835990](https://github.com/mohabelgendyy/ReactNative-StocksApp-TS-Expo/assets/141507408/927b570c-ae38-4b85-9c6e-8a4e64d3d57b)
+![photo1707835990 (1)](https://github.com/mohabelgendyy/ReactNative-StocksApp-TS-Expo/assets/141507408/5fca0c4e-6c0e-40bd-9f98-d901e896350b)
+![photo1707835039](https://github.com/mohabelgendyy/ReactNative-StocksApp-TS-Expo/assets/141507408/b726b7a3-7a64-4d99-ae58-ada4ccbd0e70)
+![photo1707835039 (1)](https://github.com/mohabelgendyy/ReactNative-StocksApp-TS-Expo/assets/141507408/7996d53d-82f4-41ae-80a6-c24060127b35)
+![photo1707835039 (2)](https://github.com/mohabelgendyy/ReactNative-StocksApp-TS-Expo/assets/141507408/8bffb513-bc9d-4b72-8db0-8260668504df)
+![photo1707835039 (3)](https://github.com/mohabelgendyy/ReactNative-StocksApp-TS-Expo/assets/141507408/d2da9a81-8208-43ad-a3a1-e994d374893a)
+![photo1707835039 (4)](https://github.com/mohabelgendyy/ReactNative-StocksApp-TS-Expo/assets/141507408/381f8a45-d43e-4ec0-a6ea-ea35615918f2)
